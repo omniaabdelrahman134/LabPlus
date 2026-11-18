@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LabPlus.API/LabPlus.API.csproj" />
+  <Project Path="LabPlus.Application/LabPlus.Application.csproj" />
+  <Project Path="LabPlus.Domain/LabPlus.Domain.csproj" />
+  <Project Path="LabPlus.Infrastructure/LabPlus.Infrastructure.csproj" />
+</Solution>
